@@ -38,3 +38,5 @@ The application will be accessible at http://localhost:8888.
 
 3. **Search:**
 Navigate to the homepage and enter a query to perform a semantic search.
+Search for subjects such as:
+Sustainability, Artificial Intelligence, Education, Health and Fitness, Finance, E-commerce, Data Science, Globalization, Leadership, Cybersecurity, Machine Learning and Business. 
